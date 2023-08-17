@@ -1,0 +1,10 @@
+{
+    "unexpected_error": "An unexpected error occurred. Please try again later.",
+    "missing_permissions": "I need to have the following permissions to run this command: ``{{-permissions}}`",
+    "cooldown": "You can use this command again in `{{-cooldown}}` seconds.",
+    "black_list": "I think you're blacklisted I hope you're blacklisted from blacklist because `{{reason}}`",
+    "user_permissions": "You must have `{{-perm}}` privilege to use this command",
+    "premium": "You must have a premium subscription to use this command",
+    "owner": "You must be the owner of the server to use this command",
+    "bot_owner": "You must be the owner of the bot to use this command"
+}

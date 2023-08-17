@@ -1,0 +1,29 @@
+{
+    "ping": { "name": "ping", "description": "Sends the ping of the bot and the Discord WS.", "embed": { "bot_ping": "Bot Latency", "discord_ping": "Discord Latency" } },
+    "premium": {
+        "name": "premium",
+        "description": "Only the owner can use it",
+        "give": { "name": "give" },
+        "remove": { "name": "remove" },
+        "user": { "name": "user" },
+        "time": { "name" : "time" },
+        "error_text": { "user": "You must select a user to give premium to the user 😄", "time": "I think you forgot to select the time ⏲️" },
+        "done_text": { "register": "😊 I successfully registered premium for <@{{user_id}}>", "unregister": "😳 I received premium for <@{{user_id}}>" }
+    },
+    "blackList": {
+        "name": "blacklist",
+        "description": "Only the owner can use it",
+        "add": { "name": "add" },
+        "remove": { "name": "remove" },
+        "user": { "name": "user" },
+        "time": { "name": "time" },
+        "reason": { "name": "reason" },
+        "error_text": { "user": "You must select a user to blacklist the user 😄", "time": "I think you forgot to select the time ⏲️", "reason": "Hop! you need to enter a reason 👻" },
+        "done_text": { "register": "😊 I blacklisted <@{{user_id}}>", "unregister": "😳 I removed <@{{user_id}}>" }
+    },
+    "EmbedBuilder": {
+        "name": "embed",
+        "description": "Allows you to Embed",
+        "2name": "creator"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "unexpected_error": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.",
+    "missing_permissions": "Bu komutu kullanabilmek için bana `{{-permissions}}` yetkilerine vermelisin!",
+    "cooldown": "Bu komutu tekrar kullanabilmek için `{{-cooldown}}` saniye beklemelisin!",
+    "black_list": "Sanırım karalisteye alınmışsın umarım karalisten açılır karalisteye alınma sebebin ise `{{reason}}`",
+    "user_permissions": "Bu komutu kullanabilmek için `{{-perm}}` yetkisine sahip olmalısın",
+    "premium": "Bu komutu kullanabilmek için premium üyeliği sahip olmalısın",
+    "owner": "Bu komutu kullanmak için sunucunun sahibi olmalısın",
+    "bot_owner": "Bu komutu kullanmak için botun sahibi olman gerekiyor"
+}

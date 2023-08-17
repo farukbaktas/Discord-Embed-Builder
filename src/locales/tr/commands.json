@@ -1,0 +1,29 @@
+{
+    "ping": { "name": "gecikme", "description": "Botun ve Discord WS'inin gecikmesini gösterir.", "embed": { "bot_ping": "Bot Gecikmesi", "discord_ping": "Discord Gecikmesi" } },
+    "premium": {
+        "name": "premium",
+        "description": "Sadece sahibim kullanabilir",
+        "give": { "name": "ver" },
+        "remove": { "name": "al" },
+        "user": { "name": "kullanıcı" },
+        "time": { "name": "zaman" },
+        "error_text": { "user": "Kullanıcıya premium vermek için bir kullanıcı seçmelisin 😄", "time": "Galiba zamanı seçmeyi unuttun ⏲️" },
+        "done_text": { "register": "😊 <@{{user_id}}> adlı kullanıcıya başarıyla premium tanımladım", "unregister": "😳 <@{{user_id}}> adlı kullanıcının premiumunu aldım" }
+    },
+    "blackList": {
+        "name": "karaliste",
+        "description": "Sadece sahibim kullanabilir",
+        "add": { "name": "ekle" },
+        "remove": { "name": "çıkar" },
+        "user": { "name": "kullanıcı" },
+        "time": { "name": "zaman" },
+        "reason": { "name": "sebep" },
+        "error_text": { "user": "Kullanıcıya karaliste vermek için bir kullanıcı seçmelisin 😄", "time": "Galiba zamanı seçmeyi unuttun ⏲️", "reason": "Hop! bir sebep girmen gerekli 👻" },
+        "done_text": { "register": "😊 <@{{user_id}}> adlı kullanıcıyı karalisteye ekledim", "unregister": "😳 <@{{user_id}}> adlı kullanıcıyı karalisteden çıkardım" }
+    },
+    "EmbedBuilder": {
+        "name": "embed",
+        "description": "Embed Oluşturmanızı sağlar",
+        "2name": "oluşturucu"
+    }
+}
